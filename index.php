@@ -6,8 +6,8 @@
         <div class="inner">
         
         	<div class="nivo-slider nivoSlider">
-                <a href=""><img src="assets/images/slides/singolo-slide1.jpg" alt="#" /></a>
-                <img src="assets/images/slides/singolo-slide2.jpg" alt="#" />
+                <a href=""><img src="<?php bloginfo('template_url'); ?>/assets/images/slides/singolo-slide1.jpg" alt="#" /></a>
+                <img src="<?php bloginfo('template_url'); ?>/assets/images/slides/singolo-slide2.jpg" alt="#" />
             </div>
                 
         </div><!-- .inner -->
@@ -91,73 +91,73 @@
             <ul class="portfolio">
             	<li data-id="id-1" data-type="webdesign">
                     <a href="http://farm4.staticflickr.com/3712/9032543579_1217e6566b_b.jpg" rel="prettyPhoto[portfolio]">
-                        <img src="assets/images/thumbnails/img1.jpg" width="220" height="187" alt="#" />
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/thumbnails/img1.jpg" width="220" height="187" alt="#" />
                     </a>
                 </li>
                 
             	<li data-id="id-2" data-type="graphicdesign">
                     <a href="http://farm4.staticflickr.com/3712/9032543579_1217e6566b_b.jpg" rel="prettyPhoto[portfolio]">
-                        <img src="assets/images/thumbnails/img2.jpg" width="220" height="187" alt="#" />
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/thumbnails/img2.jpg" width="220" height="187" alt="#" />
                     </a>
                 </li>
                 
             	<li data-id="id-3" data-type="webdesign">
                     <a href="http://farm4.staticflickr.com/3712/9032543579_1217e6566b_b.jpg" rel="prettyPhoto[portfolio]">
-                        <img src="assets/images/thumbnails/img3.jpg" width="220" height="187" alt="#" />
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/thumbnails/img3.jpg" width="220" height="187" alt="#" />
                     </a>
                 </li>
                 
             	<li data-id="id-4" data-type="artwork">
                     <a href="http://farm4.staticflickr.com/3712/9032543579_1217e6566b_b.jpg" rel="prettyPhoto[portfolio]">
-                        <img src="assets/images/thumbnails/img4.jpg" width="220" height="187" alt="#" />
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/thumbnails/img4.jpg" width="220" height="187" alt="#" />
                     </a>
                 </li>
                 
             	<li data-id="id-5" data-type="graphicdesign">
                     <a href="http://farm4.staticflickr.com/3712/9032543579_1217e6566b_b.jpg" rel="prettyPhoto[portfolio]">
-                        <img src="assets/images/thumbnails/img5.jpg" width="220" height="187" alt="#" />
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/thumbnails/img5.jpg" width="220" height="187" alt="#" />
                     </a>
                 </li>
                 
             	<li data-id="id-6" data-type="artwork">
                     <a href="http://farm4.staticflickr.com/3712/9032543579_1217e6566b_b.jpg" rel="prettyPhoto[portfolio]">
-                        <img src="assets/images/thumbnails/img6.jpg" width="220" height="187" alt="#" />
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/thumbnails/img6.jpg" width="220" height="187" alt="#" />
                     </a>
                 </li>
                 
             	<li data-id="id-7" data-type="webdesign">
                     <a href="http://farm4.staticflickr.com/3712/9032543579_1217e6566b_b.jpg" rel="prettyPhoto[portfolio]">
-                        <img src="assets/images/thumbnails/img7.jpg" width="220" height="187" alt="#" />
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/thumbnails/img7.jpg" width="220" height="187" alt="#" />
                     </a>
                 </li>
                 
             	<li data-id="id-8" data-type="graphicdesign">
                     <a href="http://farm4.staticflickr.com/3712/9032543579_1217e6566b_b.jpg" rel="prettyPhoto[portfolio]">
-                        <img src="assets/images/thumbnails/img8.jpg" width="220" height="187" alt="#" />
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/thumbnails/img8.jpg" width="220" height="187" alt="#" />
                     </a>
                 </li>
                 
             	<li data-id="id-9" data-type="artwork">
                     <a href="http://farm4.staticflickr.com/3712/9032543579_1217e6566b_b.jpg" rel="prettyPhoto[portfolio]">
-                        <img src="assets/images/thumbnails/img9.jpg" width="220" height="187" alt="#" />
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/thumbnails/img9.jpg" width="220" height="187" alt="#" />
                     </a>
                 </li>
                 
             	<li data-id="id-10" data-type="graphicdesign">
                     <a href="http://farm4.staticflickr.com/3712/9032543579_1217e6566b_b.jpg" rel="prettyPhoto[portfolio]">
-                        <img src="assets/images/thumbnails/img10.jpg" width="220" height="187" alt="#" />
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/thumbnails/img10.jpg" width="220" height="187" alt="#" />
                     </a>
                 </li>
                 
             	<li data-id="id-11" data-type="webdesign">
                     <a href="http://farm4.staticflickr.com/3712/9032543579_1217e6566b_b.jpg" rel="prettyPhoto[portfolio]">
-                        <img src="assets/images/thumbnails/img11.jpg" width="220" height="187" alt="#" />
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/thumbnails/img11.jpg" width="220" height="187" alt="#" />
                     </a>
                 </li>
                 
             	<li data-id="id-12" data-type="artwork">
                     <a href="http://farm4.staticflickr.com/3712/9032543579_1217e6566b_b.jpg" rel="prettyPhoto[portfolio]">
-                        <img src="assets/images/thumbnails/img12.jpg" width="220" height="187" alt="#" />
+                        <img src="<?php bloginfo('template_url'); ?>/assets/images/thumbnails/img12.jpg" width="220" height="187" alt="#" />
                     </a>
                 </li>
                 
@@ -182,7 +182,7 @@
             <!-- Profile -->
             <ul>
             	<li>
-                	<img src="assets/images/profile/profile1.jpg" width="300" height="300" alt="#" />
+                	<img src="<?php bloginfo('template_url'); ?>/assets/images/profile/profile1.jpg" width="300" height="300" alt="#" />
                     <h4>Adam Jensen</h4>
                     <p>Quisque luctus, quam eget molestie commodo, lacus purus cursus purus, nec rutrum tellus dolor id lorem.</p>
                     <a href=""><span class="icon-facebook"></span></a>
@@ -192,7 +192,7 @@
                 </li>
                 
             	<li>
-                	<img src="assets/images/profile/profile2.jpg" width="300" height="300" alt="#" />
+                	<img src="<?php bloginfo('template_url'); ?>/assets/images/profile/profile2.jpg" width="300" height="300" alt="#" />
                     <h4>Desmond Miles</h4>
                     <p>Curabitur vestibulum eget mauris quis laoreet. Phasellus in quam laoreet, viverra lacus ut, ultrices velit.</p>
                     <a href=""><span class="icon-facebook"></span></a>
@@ -202,7 +202,7 @@
                 </li>
                 
             	<li>
-                	<img src="assets/images/profile/profile3.jpg" width="300" height="300" alt="#" />
+                	<img src="<?php bloginfo('template_url'); ?>/assets/images/profile/profile3.jpg" width="300" height="300" alt="#" />
                     <h4>Scolara Visari</h4>
                     <p>Nulla sed nunc et tortor luctus faucibus. Morbi at aliquet turpis, et consequat felis. Quisque condimentum.</p>
                     <a href=""><span class="icon-facebook"></span></a>
